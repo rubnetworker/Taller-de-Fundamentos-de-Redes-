@@ -1,5 +1,7 @@
 
-<img width="149" height="148" alt="Logo RubNetworke_Proyectos r" src="https://github.com/user-attachments/assets/098cc3d0-f276-465d-9cd6-6172996243b2" />
+<p align="center">
+  <img width="149" height="148" alt="Logo RubNetworke_Proyectos" src="https://github.com/user-attachments/assets/098cc3d0-f276-465d-9cd6-6172996243b2" />
+</p>
 
 
 # Fundamentos de Redes
