@@ -1,4 +1,6 @@
-<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
+<img width="149" height="148" alt="Logo RubNetworke_Proyectos r" src="https://github.com/user-attachments/assets/098cc3d0-f276-465d-9cd6-6172996243b2" />
+
 
 # Fundamentos de Redes
 
@@ -50,14 +52,9 @@ Aprenderás los conceptos esenciales de redes, incluidos modelos OSI/TCP-IP, dir
 
 - [elaborar plan de mantenimiento y checklist operativo](Capitulo07/README.md#elaborar-plan-de-mantenimiento-y-checklist-operativo)
   - Descripción: Elaborar un plan de mantenimiento preventivo y un checklist operativo para documentar y planificar mejoras en redes pequeñas.
-  - Duración estimada: 47 min
+  - Duración estimada: 47 
+
 
   ---
-
-## 📬 **Contacto y más información**
-
-Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
-
----
 
 ¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
